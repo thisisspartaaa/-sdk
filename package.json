@@ -1,0 +1,27 @@
+{
+  "name": "51ym_sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/app.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisisspartaaa/51ym_sdk.git"
+  },
+  "author": "zhu1912@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thisisspartaaa/51ym_sdk/issues"
+  },
+  "homepage": "https://github.com/thisisspartaaa/51ym_sdk#readme",
+  "dependencies": {
+    "axios": "^0.17.1"
+  },
+  "devDependencies": {
+    "koa": "^2.5.0",
+    "koa-router": "^7.4.0"
+  }
+}
